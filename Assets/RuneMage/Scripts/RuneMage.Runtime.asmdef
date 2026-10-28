@@ -1,0 +1,33 @@
+{
+    "name": "RuneMage.Runtime",
+    "rootNamespace": "RuneMage",
+    "references": [
+        "Oculus.VR",
+        "meta.xr.mrutilitykit",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "Unity.InputSystem",
+        "Meta.WitAi",
+        "Meta.WitAi.Lib",
+        "Meta.Wit.Dictation",
+        "Meta.WitAi.TTS",
+        "VoiceSDK.Runtime",
+        "VoiceSDK.Dictation.Runtime",
+        "AssistantCoreSDKRuntime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "define": "RUNEMAGE_VOICE_SDK",
+            "name": "com.meta.xr.sdk.voice",
+            "expression": ""
+        }
+    ],
+    "noEngineReferences": false
+}

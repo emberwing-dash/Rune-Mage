@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a0b5d1321bceee45bb33fa1c736b588, type: 3}
+  m_Name: RuneMageAssets
+  m_EditorClassIdentifier: Assembly-CSharp::RuneMage.RuneMageAssets
+  GlowShader: {fileID: 4800000, guid: 7690cf04dc5398b4dbe70a4e41431f3f, type: 3}
+  FlameOrange: {fileID: 2800000, guid: 1bb03e1fde438334b830ae869293c852, type: 3}
+  FlameRed: {fileID: 2800000, guid: e99cc24ed0aaf354f9fe5956e2ed593b, type: 3}
+  FlameYellow: {fileID: 2800000, guid: 61386da72cce9ac4392fa9d585aedd2f, type: 3}
+  ZombieBody: {fileID: 2800000, guid: a40cafc16c4be084798585679d850d77, type: 3}
+  ZombieMouth: {fileID: 2800000, guid: 19d43b647bfc112499c3fce01934e9ef, type: 3}
+  ZombieEyes: {fileID: 2800000, guid: 6c426b637d0e8d84ab17741128df789d, type: 3}
+  ChandelureHead: {fileID: 2800000, guid: b0ecea516adc80b4e8cd205099658bae, type: 3}
+  ChandelureHands: {fileID: 2800000, guid: 42b4d3283287dc04daa6cd0334ec8896, type: 3}
+  ChandelureEyes: {fileID: 2800000, guid: 999ef45c93ffc7847bc97cf3a11eaa9b, type: 3}
+  ChandelureBase: {fileID: 2800000, guid: 7bd873395922a3f44bb4f43c95d5d704, type: 3}
+  ChandelureHead2: {fileID: 2800000, guid: d1a77e256d2896f4b9473101cb2dd070, type: 3}
+  ChandelureHands2: {fileID: 2800000, guid: 3fcdafc17d2ce1c45911f840695c1ea8, type: 3}
+  ChandelureHands3: {fileID: 2800000, guid: fe38f9c9c49fb9742811839f0c6e7fe2, type: 3}
+  ChandelureEyes2: {fileID: 2800000, guid: 0648f0b0e3a135541b1b9d621f77ea41, type: 3}
+  MageEyes: {fileID: 2800000, guid: c722f904b8599584ab31d151bf4bad64, type: 3}
+  TrailFlow: {fileID: 2800000, guid: be0db628b0c40f745a4f320933a90f8e, type: 3}
+  EnvTrees:
+  - {fileID: 919132149155446097, guid: c9e87eef30d8c584488a1b7ddd58c4e8, type: 3}
+  - {fileID: 919132149155446097, guid: c761530a6987f0a49ace3d127d3b0800, type: 3}
+  - {fileID: 919132149155446097, guid: 230e23a5d45c6a645be28df61c565e8c, type: 3}
+  StandPlate: {fileID: 919132149155446097, guid: 34e4a02c5a33c934bb5d40b8abee3deb, type: 3}
+  StandCandle: {fileID: 919132149155446097, guid: 2111d4bd74506a044ad0508ccfc7e354, type: 3}
+  ZombieModel: {fileID: 919132149155446097, guid: 85b1aa56b195c654db4dfb46aa7750e4, type: 3}
+  MageModel: {fileID: 919132149155446097, guid: 1c26ceefcd90e3d47a7922206b008c82, type: 3}
+  ChandelureModel: {fileID: 919132149155446097, guid: 215768413a3d0d7439131a345ba77940, type: 3}
+  FlameSpellModel: {fileID: 919132149155446097, guid: d38a70a374266c946851f90b642901c3, type: 3}
+  ZombieWalk: {fileID: -203655887218126122, guid: 32e7b488e4ffa9b418c4ef184fef36c5, type: 3}
+  ZombieAttack: {fileID: -203655887218126122, guid: a301f66615438dc4ea3e37d246bed8da, type: 3}
+  ZombieDie: {fileID: -203655887218126122, guid: d74a2edd4b30d584c86bfe780a679962, type: 3}
+  ZombieCrawl: {fileID: -203655887218126122, guid: e18c7bb5afd26844ca255e258dc5cac6, type: 3}
+  MageCast: {fileID: -203655887218126122, guid: ea453a17f9a45524bb91dc80c6b836a1, type: 3}
+  MageDead: {fileID: -203655887218126122, guid: 76404b36f4aab474f917b759da73cc0f, type: 3}

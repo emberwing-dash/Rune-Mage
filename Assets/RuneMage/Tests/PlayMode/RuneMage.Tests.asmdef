@@ -1,0 +1,25 @@
+{
+    "name": "RuneMage.Tests",
+    "rootNamespace": "RuneMage.Tests",
+    "references": [
+        "RuneMage.Runtime",
+        "Oculus.VR",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "meta.xr.mrutilitykit",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

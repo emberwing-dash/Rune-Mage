@@ -107,3 +107,9 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Wit.ai voice configuration (holds a client token)
+/Assets/Scenes/voice/
+/Assets/Scenes/voice.meta
+/ProjectSettings/wit.config
+/ProjectSettings/wit.config.meta

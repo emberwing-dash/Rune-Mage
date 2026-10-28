@@ -1,0 +1,21 @@
+{
+    "name": "RuneMage.Editor",
+    "rootNamespace": "RuneMage.EditorTools",
+    "references": [
+        "RuneMage.Runtime",
+        "Oculus.VR",
+        "Oculus.VR.Editor",
+        "meta.xr.mrutilitykit"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
